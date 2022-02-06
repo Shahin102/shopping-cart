@@ -1,3 +1,8 @@
+#### This project is inspired by --> ####
+##### YouTube: https://www.youtube.com/watch?v=sfmL6bGbiN8&ab_channel=freeCodeCamp.org #####
+##### GitHub: https://github.com/weibenfalk/react-shopping-cart #####
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
